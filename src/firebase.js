@@ -10,7 +10,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyDsawd59SjkjSqLKCJxgwk43e51RodkusM",
   authDomain: "financly-tracker.firebaseapp.com",
   projectId: "financly-tracker",
-  storageBucket: "financly-tracker.firebasestorage.app",
+  storageBucket: "finance-tracker-qvce9hi5z-aman017s-projects.vercel.app",
   messagingSenderId: "586987463453",
   appId: "1:586987463453:web:df5266a1c6e6a0750e37f4",
   measurementId: "G-5G23M7BT17"
