@@ -9,7 +9,7 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 const firebaseConfig = {
   apiKey: "AIzaSyDsawd59SjkjSqLKCJxgwk43e51RodkusM",
   authDomain: "finance-tracker-ft-one.vercel.app",
-  projectId: "prj_Wd5eEgQ4v3fhuWoVQkd1MiGn8mL9",
+  projectId: "financly-tracker",
   storageBucket: "financly-tracker.firebasestorage.app",
   messagingSenderId: "586987463453",
   appId: "1:586987463453:web:df5266a1c6e6a0750e37f4",
