@@ -17,8 +17,8 @@
 }
 .logo{
     color:var(--white);
-     fontWeight:500;
-      fontSize:"1.2rem";
+     font-weight:500;
+      font-size:"1.2rem";
       margin: 0;
     }
     .link{

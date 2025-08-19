@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './style.css'
-import Input from '../input/input'
+import Input from '../../components/input/Input.jsx'
 import Button from '../Button/Button';
 import { toast } from 'react-toastify';
 import { auth, db, provider, } from '../../firebase';
