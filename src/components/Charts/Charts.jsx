@@ -1,5 +1,6 @@
 import { Line, Pie } from '@ant-design/charts';
 import React from 'react'
+import './style.css'
 
 const Charts = ({ sortedTransactions }) => {
   const data = sortedTransactions.map((item) => {
