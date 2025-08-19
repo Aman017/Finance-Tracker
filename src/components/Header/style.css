@@ -1,0 +1,46 @@
+.navbar{
+    background: var(--theme);
+    padding: 1rem 1.5rem;
+    position: sticky;
+    top: 0;
+    left: 0;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+.logo-img{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.logo{
+    color:var(--white);
+     fontWeight:500;
+      fontSize:"1.2rem";
+      margin: 0;
+    }
+    .link{
+        opacity: 0.8;
+        cursor: pointer;
+    }
+    .link:hover{
+        opacity: 1;
+        transition: all 0.3s;
+    }
+
+    .about{
+        color: var(--white);
+        font-weight: 500;
+        font-size: 1rem;
+        margin: 0;
+        cursor: pointer;
+     opacity: 0.7;
+        cursor: pointer;
+        }
+       
+    .about:hover{
+        opacity: 1;
+        transition: all 0.3s;
+    }
