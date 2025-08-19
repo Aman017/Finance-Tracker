@@ -8,7 +8,7 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDsawd59SjkjSqLKCJxgwk43e51RodkusM",
-  authDomain: "finance-tracker-ft-one.vercel.app",
+  authDomain: "financly-tracker.firebaseapp.com",
   projectId: "financly-tracker",
   storageBucket: "financly-tracker.firebasestorage.app",
   messagingSenderId: "586987463453",
